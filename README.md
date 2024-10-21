@@ -9,7 +9,7 @@ Power BI Visualizations: Advanced Power BI features such as DAX and Power Query 
 Real-Time Data Updates: The dashboard is set up to update automatically with new data during the Paris 2024 Olympics.
 This repository is perfect for data enthusiasts, sports analysts, and BI professionals looking to explore the intersection of data analytics and sports.
 
----
+----
 Olimpiyat Veri Analizi Panosu (Paris 2024)
 
 Bu proje, Python, Kaggle veri setleri, Figma ve Power BI'ın gücünü bir araya getirerek interaktif ve içgörüler sağlayan bir Olimpiyat veri analizi panosu oluşturmayı göstermektedir.
@@ -21,4 +21,9 @@ Veri Çekme ve İşleme: Python betikleri, Kaggle'dan Olimpiyat verilerini otoma
 Power BI Görselleştirmeleri: DAX ve Power Query gibi gelişmiş Power BI özellikleri kullanılarak madalya sayıları, sporcu performansı, etkinlik takvimi gibi interaktif görselleştirmeler oluşturulmuştur.
 Gerçek Zamanlı Veri Güncellemeleri: Paris 2024 Olimpiyatları sırasında yeni verilerle otomatik olarak güncellenen bir yapı kurulmuştur.
 Bu proje, veri meraklıları, spor analistleri ve iş zekası profesyonelleri için veri analitiği ve sporun kesişimini keşfetmek adına mükemmel bir kaynaktır.
----
+----
+![1](https://github.com/user-attachments/assets/9a5bad5f-366d-450a-b267-b82a4fa6cd70)
+![2](https://github.com/user-attachments/assets/d50521c1-2fc6-4524-9691-adfc967ab244)
+![3](https://github.com/user-attachments/assets/24128f3d-c50d-4cf2-b497-1d31dc5dbd93)
+![4](https://github.com/user-attachments/assets/cc2c1676-4900-4243-86f8-37e9b6b89283)
+![5](https://github.com/user-attachments/assets/3d0a8590-76c1-411e-ad74-7004abcacb60)
