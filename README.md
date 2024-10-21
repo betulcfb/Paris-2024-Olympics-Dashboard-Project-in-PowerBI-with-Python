@@ -22,6 +22,8 @@ Power BI Görselleştirmeleri: DAX ve Power Query gibi gelişmiş Power BI özel
 Gerçek Zamanlı Veri Güncellemeleri: Paris 2024 Olimpiyatları sırasında yeni verilerle otomatik olarak güncellenen bir yapı kurulmuştur.
 Bu proje, veri meraklıları, spor analistleri ve iş zekası profesyonelleri için veri analitiği ve sporun kesişimini keşfetmek adına mükemmel bir kaynaktır.
 ----
+Kaggle , Python , Excel , Power BI , Figma
+---
 ![1](https://github.com/user-attachments/assets/9a5bad5f-366d-450a-b267-b82a4fa6cd70)
 ![2](https://github.com/user-attachments/assets/d50521c1-2fc6-4524-9691-adfc967ab244)
 ![3](https://github.com/user-attachments/assets/24128f3d-c50d-4cf2-b497-1d31dc5dbd93)
